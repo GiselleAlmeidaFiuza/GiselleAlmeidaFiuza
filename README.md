@@ -36,14 +36,14 @@ I am passionate about continuous learning, delivering high-quality solutions, an
 
 ## 🛠️ Skills & Focus Areas
 
-<p align="left">
+<!--<p align="left">-->
   <img src="https://img.shields.io/badge/QA%20Engineer-4C1?style=for-the-badge&color=0066CC" />
   <img src="https://img.shields.io/badge/Agile%20Testing-4C1?style=for-the-badge&color=33A1FF" />
   <img src="https://img.shields.io/badge/Test%20Automation-4C1?style=for-the-badge&color=0099CC" />
 [![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-4C1?style=for-the-badge&color=0055AA)](https://github.com/GiselleAlmeidaFiuza/FullStackDevelopment)
   <img src="https://img.shields.io/badge/Technical%20English-4C1?style=for-the-badge&color=003399" />
   <img src="https://img.shields.io/badge/ADS%20Graduate-4C1?style=for-the-badge&color=002266" />
-</p>
+<!--</p>-->
 
 ---
 <!--
