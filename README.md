@@ -28,7 +28,7 @@ I am passionate about continuous learning, delivering high-quality solutions, an
   </a>
 
   <a href="mailto:gysellyhalmeydah3@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
