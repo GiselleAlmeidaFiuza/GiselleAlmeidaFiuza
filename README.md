@@ -36,8 +36,7 @@ I am passionate about continuous learning, delivering high-quality solutions, an
 
 <div align="left">
 
-[![QA Engineer](https://img.shields.io/badge/QA%20Engineer-1F3A5F?style=for-the-badge)]
-(https://github.com/GiselleAlmeidaFiuza/QAEngineer)
+[![QA Engineer](https://img.shields.io/badge/QA%20Engineer-1F3A5F?style=for-the-badge)](https://github.com/GiselleAlmeidaFiuza/QAEngineer)
 [![Agile Testing](https://img.shields.io/badge/Agile%20Testing-3FAF50?style=for-the-badge)]()
 [![Test Automation](https://img.shields.io/badge/Test%20Automation-1B5E20?style=for-the-badge)]()
 [![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-6D28D9?style=for-the-badge)](https://github.com/GiselleAlmeidaFiuza/FullStackDevelopment)
